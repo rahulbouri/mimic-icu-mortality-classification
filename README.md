@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # mimic-icu-mortality-classification
 =======
 # Clinical Mortality Prediction Model with Captum-Based Explainability
